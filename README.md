@@ -1,2 +1,2 @@
 # Weather-Picker-react
-A web application with a cool frontend, that show the current temperature in the location that user can choice. Completely desenvolve with Django, React.js, Tailwind CSS, HTML and JavaScript
+A web application with a cool frontend, that show the current temperature in the location that user can choice. Completely desenvolve with React.js, Tailwind CSS and HTML. The purpose of this project is to practice react.js and frontend technics, such web desing, making svg files, positioning web elements and making things look nice.

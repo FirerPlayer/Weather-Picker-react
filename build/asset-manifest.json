@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Weather-Picker-react/static/css/main.093ec95f.css",
+    "main.js": "/Weather-Picker-react/static/js/main.dd7ec186.js",
+    "static/js/787.9750ae9a.chunk.js": "/Weather-Picker-react/static/js/787.9750ae9a.chunk.js",
+    "static/media/sun_part.svg": "/Weather-Picker-react/static/media/sun_part.d505dea0144568a8236905813a4d5293.svg",
+    "static/media/cold.svg": "/Weather-Picker-react/static/media/cold.efb0d19d534d37027feb.svg",
+    "static/media/sun.svg": "/Weather-Picker-react/static/media/sun.dc14d9b67fce893d89da99e64a92253a.svg",
+    "index.html": "/Weather-Picker-react/index.html",
+    "main.093ec95f.css.map": "/Weather-Picker-react/static/css/main.093ec95f.css.map",
+    "main.dd7ec186.js.map": "/Weather-Picker-react/static/js/main.dd7ec186.js.map",
+    "787.9750ae9a.chunk.js.map": "/Weather-Picker-react/static/js/787.9750ae9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.093ec95f.css",
+    "static/js/main.dd7ec186.js"
+  ]
+}
