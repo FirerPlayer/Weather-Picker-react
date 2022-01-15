@@ -50,7 +50,7 @@ function Painel() {
 
     const updateComlist = (val) => {
         let list = []
-        fetch('http://api.weatherapi.com/v1/search.json?key=e38c705c66ab40f7b2312432221101&q=' + val)
+        fetch('https://api.weatherapi.com/v1/search.json?key=e38c705c66ab40f7b2312432221101&q=' + val)
             .then(
                 function (response) {
                     return response.json();
