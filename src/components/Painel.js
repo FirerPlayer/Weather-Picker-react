@@ -68,7 +68,7 @@ function Painel() {
     return (
         <div className="p-4 h-[100%] flex flex-col items-center justify-center bg-transparent trounded-x select-none" onLoadStart={(e) => updateWeather('London')}>
             <div className="search-box font-ubunto text-stone-800 absolute top-0 max-w-[100%]">
-                <input type="text" placeholder="Search" value={input} onChange={(e) => {
+                <input type="text" placeholder="Search for a city..." value={input} onChange={(e) => {
                     setInput(e.target.value);
                     updateComlist(e.target.value);
                 }}
