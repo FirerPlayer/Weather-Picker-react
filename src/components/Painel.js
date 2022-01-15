@@ -4,7 +4,7 @@ import './Painel.css'
 import { ReactComponent as Sun } from '../img/sun.svg';
 import { ReactComponent as SunPart } from '../img/sun_part.svg';
 
-const api = { 'base': 'http://api.weatherapi.com/v1/', 'key': 'e38c705c66ab40f7b2312432221101' };
+const api = { 'base': 'https://api.weatherapi.com/v1/', 'key': 'e38c705c66ab40f7b2312432221101' };
 
 function dateBuilder(d) {
     let months = ["January", "February", "March", "April", "May", "June",
